@@ -10,7 +10,22 @@ A pixel-faithful crypto trading app built in Flutter from the **"Foxcrypto – C
   <img src="media/foxcrypto-demo.gif" alt="Foxcrypto app walkthrough" width="300">
 </p>
 
-<p align="center"><em>Onboarding → Sign up → Verify account → Home → Market → Quick actions</em></p>
+<p align="center">
+  <em>Onboarding → Sign up → Verify account → Home → Market → Quick actions</em>
+</p>
+
+<p align="center">
+  <a href="media/foxcrypto-demo.mp4">Watch the full demo (mp4)</a>
+  &nbsp;·&nbsp;
+  <a href="media/foxcrypto-demo.gif">Animated GIF</a>
+</p>
+
+<p align="center">
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter&logoColor=white">
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart&logoColor=white">
+  <img alt="Platform" src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-6d28d9">
+  <img alt="Build" src="https://img.shields.io/badge/build-passing-brightgreen">
+</p>
 
 ## Features
 
@@ -23,6 +38,12 @@ A pixel-faithful crypto trading app built in Flutter from the **"Foxcrypto – C
 - **Market** — tabbed market view of live coin cards
 - **Quick actions** — centre FAB opens a Buy / Sell / Send / Receive sheet
 - **Bottom navigation** — Home · Market · Portfolio · Settings
+
+## Tech stack
+
+- **Flutter & Dart** — single codebase for Android & iOS
+- **Bundled fonts** — Poppins via `google_fonts` working fully offline
+- **Data layer** — coin prices and the news feed are sample data in `lib/screens/home_screen.dart`, structured so a real market API can drop in later
 
 ## Screenshots
 
