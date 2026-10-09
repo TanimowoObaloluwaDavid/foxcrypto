@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="media/foxcrypto-logo.png" alt="foxcrypto" width="280">
+</p>
+
 # Foxcrypto — Flutter Crypto App
 
 A pixel-faithful crypto trading app built in Flutter from the **"Foxcrypto – Crypto App (Community)"** Figma design. Onboarding, authentication, KYC verification and a live market dashboard — recreated screen by screen with the design's dark theme and brand-yellow accents.
